@@ -2,8 +2,9 @@ package main
 
 import "fmt"
 
-func main(){
+func main() {
 
-fmt.Println("Hello World")
+	fmt.Println("Assalamu alaikum")
+	fmt.Println("Hello World")
 
 }
